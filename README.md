@@ -1,5 +1,5 @@
 # Survey-Form
-This is a Survey Form to collect data from users.
+This is a Survey Form web app to collect data from users.
 from Responsive Web Design.
 
 
